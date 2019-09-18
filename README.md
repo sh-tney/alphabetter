@@ -10,7 +10,7 @@ Leaving a blank line after the entry of these, will then change the mode of the 
 One can run the program with arguments such as ```-p``` for debugging printouts, ```-s``` for "slow-mode", in which the program will not use any efficiency techniques; Serving as a basis for comparison to brute force time; and finally ```-t```, which will display a visual tree of the searching of strings during computation. In this mode, strings that are being checked will be denoted with a ```|``` at the end, and the end of a search branch is denoted with a ```/```. A ```*``` character denotes that the program has recognised a familiar branch, and will effectively skip over the branch and add the pre-computed value to the total word count.
 
 ## how do i run this?
-Simply compile the java file, and run it from your favourite terminal application, with ```java IceIceBaby [arguments]```
+Simply compile the java file, and run it from your favourite terminal application, with ```java IceIceBaby [arguments]```.
 Try this out for a demonstration:
 ```java IceIceBaby -t
 qwertyuiopasdfghjklzxcvbnm
