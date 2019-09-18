@@ -11,3 +11,23 @@ One can run the program with arguments such as ```-p``` for debugging printouts,
 
 ## how do i run this?
 Simply compile the java file, and run it from your favourite terminal application, with ```java IceIceBaby [arguments]```
+Try this out for a demonstration:
+```java IceIceBaby -t
+qwertyuiopasdfghjklzxcvbnm
+ei c
+abc def
+qwe rty
+zxc bnm
+g
+o m n
+
+receive
+recieve
+theif
+thief
+1
+2
+5
+10
+20
+```
